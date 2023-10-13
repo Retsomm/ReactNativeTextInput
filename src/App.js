@@ -58,9 +58,9 @@ export default function App() {
         <Text
           style={{
             color: "white",
-            fontSize: "16px",
-            margin: "10px",
-            width: "300px"
+            fontSize: "16",
+            margin: "10",
+            width: "300"
           }}
         >
           密碼
